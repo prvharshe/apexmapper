@@ -1,5 +1,5 @@
 showMaps = maps => {
-  const mapsDiv = document.querySelector('#rick-and-morty-maps');
+  const mapsDiv = document.querySelector('#apex-maps');
   console.log(mapsDiv);
   //maps.forEach(map => {
 	  	console.log(maps);
